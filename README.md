@@ -1,5 +1,9 @@
 # test-softkuka
 
+## Project setup
+```
 yarn install
-
-yarn run
+```
+```
+yarn start
+```
